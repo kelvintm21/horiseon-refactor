@@ -1,9 +1,11 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Element Selectors */
 body {
     background-color: #d9dcd6;
 }
@@ -54,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/* Class Selectors */
 .header {
     padding: 20px; 
     background-color: #2a607c;
